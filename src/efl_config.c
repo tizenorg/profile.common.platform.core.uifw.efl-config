@@ -29,5 +29,5 @@ int main(int argc, char **argv)
 
    elm_shutdown();
 
-   return EINA_TRUE;
+   return 0;
 }
